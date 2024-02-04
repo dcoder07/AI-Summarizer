@@ -9,7 +9,7 @@ const Hero = () => {
           <img src={logo} alt='the-logo-image' height={32} width={128} />
         </div>
         <button
-          className='black_btn mt-2'
+          className='black_btn  mt-2'
           onClick={() =>
             window.open("https://hashnode.com/post/cllvii7zo000309jq8j7g6wls")
           }
